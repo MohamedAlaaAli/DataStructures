@@ -1,0 +1,3 @@
+C:/Users/EGYPT/Desktop/New folder/task1-dynamic-memory-allocation-MohamedAlaaAli/cmake-build-debug/CMakeFiles/task1_dynamic_memory_allocation_MohamedAlaaAli.dir
+C:/Users/EGYPT/Desktop/New folder/task1-dynamic-memory-allocation-MohamedAlaaAli/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EGYPT/Desktop/New folder/task1-dynamic-memory-allocation-MohamedAlaaAli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
