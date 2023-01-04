@@ -1,0 +1,3 @@
+C:/Users/EGYPT/Desktop/New folder/bst/cmake-build-debug/CMakeFiles/bst.dir
+C:/Users/EGYPT/Desktop/New folder/bst/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EGYPT/Desktop/New folder/bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
